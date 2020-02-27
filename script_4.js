@@ -21,7 +21,7 @@ const entrepreneurs = [
   ];
 
 //1 Filtre dans cette liste les entrepreneurs qui sont nés dans les années 70 
-console.log("les entrepreneurs qui sont nés dans les années 70:")
+console.log("1 les entrepreneurs qui sont nés dans les années 70:")
 entrepreneurs.forEach((item, index) => {if (item.year < 1980 && item.year > 1969)
 {
     console.log(item.first +" " + item.last + " "+"est ne en" +" "+ item.year)
@@ -29,7 +29,7 @@ entrepreneurs.forEach((item, index) => {if (item.year < 1980 && item.year > 1969
 });
 
 //2 le prénom et le nom des entrepreneurs
-console.log("le prénom et le nom des entrepreneurs")
+console.log("2 le prénom et le nom des entrepreneurs")
 entrepreneurs.forEach((item, index) => {
     output = item.first +" "+item.last;
     array.push(output);
@@ -37,11 +37,11 @@ entrepreneurs.forEach((item, index) => {
 console.log(array);
 
 //3 Quel âge aurait chaque inventeur aujourd'hui ?
-console.log("Quel âge aurait chaque inventeur aujourd'hui ?")
+console.log("3 Quel âge aurait chaque inventeur aujourd'hui ?")
 entrepreneurs.forEach((item, index) => {
     console.log(item.first + item.last + " "+"a"+" "+(2020-item.year)+"ans"); 
 })
 
 //4
-console.log("Les entrepeneur ranger pars ordre alphabetique:");
+console.log("4 Les entrepeneur ranger pars ordre alphabetique:");
 console.log(entrepreneurs.sort((a, b) => a.last.localeCompare(b.last)));
