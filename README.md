@@ -1,6 +1,7 @@
 #### Welcome to 
 # Only bloc
-<img src="" width="400" height="300" >
+<img src="wall.jpg" width="2547" height="1696" >
+
 ### :wrench: Start with terminal
 in your terminal tape:
 - git clone https://github.com/DoubleLama/shopkitties.git
