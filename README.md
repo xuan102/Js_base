@@ -1,6 +1,12 @@
 #### Welcome to 
-# Only bloc
-<img src="wall.jpg" width="2547" height="1696" >
+# Only Bloc
+<img src="wall.jpg" width="1600" height="800" >
+
+## Only Bloc
+
+is a website where we can choose the bloc fits us in France. It contains comparing different blocs, note of a bloc,  discription of a bloc, services in a bloc, the price, the hours, and many other informations of the bloc that you want to be informed.
+
+In our website, blocs can be sorted by cities, by services, by price, by note... 
 
 ### :wrench: Start with terminal
 in your terminal tape:
