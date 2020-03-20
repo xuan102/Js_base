@@ -1,6 +1,6 @@
 #### Welcome to 
 # Only Bloc
-<img src="wall.jpg" width="1600" height="800" >
+<img src="wall.jpg" width="800" height="1500" >
 
 ## Only Bloc
 
